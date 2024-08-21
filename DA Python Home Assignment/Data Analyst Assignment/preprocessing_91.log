@@ -1,0 +1,110 @@
+12/05/2022 11:49,"645 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 11:49,646 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 11:49,"648 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 11:49,649 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 11:49,519 - root - WARNING - We have 2 negative values from total of 2677.001
+12/05/2022 11:49,313 - root - WARNING - We have 5 negative values from total of 2677.001
+12/05/2022 11:49,081 - root - WARNING - We have only 55 days of data in the last 90 days
+12/05/2022 11:49,082 - root - WARNING - dropped series due to minimum series length issue category 100 brand Toyota
+12/05/2022 11:49,102 - root - WARNING - We have 1 negative values from total of 2677.001
+12/05/2022 11:49,878 - root - WARNING - We have 2 negative values from total of 2677.001
+12/05/2022 11:49,648 - root - WARNING - We have 0 negative values from total of 2677.001
+12/05/2022 11:49,406 - root - WARNING - We have only 1 days of data in the last 90 days
+12/05/2022 11:49,407 - root - WARNING - dropped series due to minimum series length issue category 100 brand Volkswagen
+12/05/2022 11:49,420 - root - WARNING - We have only 2 days of data in the last 90 days
+12/05/2022 11:49,421 - root - WARNING - dropped series due to minimum series length issue category 100 brand Daimler
+12/05/2022 11:49,432 - root - WARNING - We have only 1 days of data in the last 90 days
+12/05/2022 11:49,433 - root - WARNING - dropped series due to minimum series length issue category 100 brand Ford
+12/05/2022 11:49,453 - root - WARNING - We have 46 negative values from total of 2676.001
+12/05/2022 11:49,227 - root - WARNING - We have 0 negative values from total of 2677.001
+12/05/2022 11:49,988 - root - WARNING - We have 0 negative values from total of 2677.001
+12/05/2022 11:49,753 - root - WARNING - We have 0 negative values from total of 2677.001
+12/05/2022 11:49,530 - root - WARNING - We have only 7 days of data in the last 90 days
+12/05/2022 11:49,531 - root - WARNING - dropped series due to minimum series length issue category 200 brand Honda
+12/05/2022 11:49,542 - root - WARNING - We have only 1 days of data in the last 90 days
+12/05/2022 11:49,543 - root - WARNING - dropped series due to minimum series length issue category 200 brand BMW
+12/05/2022 11:49,553 - root - WARNING - We have only 12 days of data in the last 90 days
+12/05/2022 11:49,555 - root - WARNING - dropped series due to minimum series length issue category 500 brand Hyundai
+12/05/2022 11:49,565 - root - WARNING - We have only 1 days of data in the last 90 days
+12/05/2022 11:49,566 - root - WARNING - dropped series due to minimum series length issue category 500 brand Nissan
+12/05/2022 11:49,577 - root - WARNING - We have only 6 days of data in the last 90 days
+12/05/2022 11:49,578 - root - WARNING - dropped series due to minimum series length issue category 500 brand Kia
+12/05/2022 11:49,589 - root - WARNING - We have only 1 days of data in the last 90 days
+12/05/2022 11:49,590 - root - WARNING - dropped series due to minimum series length issue category 500 brand Renault
+12/05/2022 11:49,601 - root - WARNING - We have only 1 days of data in the last 90 days
+12/05/2022 11:49,602 - root - WARNING - dropped series due to minimum series length issue category 500 brand Geely
+12/05/2022 11:49,621 - root - WARNING - We have 7 negative values from total of 2677.001
+12/05/2022 11:49,386 - root - WARNING - We have only 44 days of data in the last 90 days
+12/05/2022 11:49,387 - root - WARNING - dropped series due to minimum series length issue category 500 brand Volvo
+12/05/2022 11:49,398 - root - WARNING - We have only 22 days of data in the last 90 days
+12/05/2022 11:49,399 - root - WARNING - dropped series due to minimum series length issue category 500 brand Tesla
+12/05/2022 11:49,418 - root - WARNING - We have 69 negative values from total of 1902.001
+12/05/2022 11:49,009 - root - WARNING - We have 4 negative values from total of 1276.001
+12/05/2022 11:49,441 - root - WARNING - We have 39 negative values from total of 1212.001
+12/05/2022 11:49,856 - root - WARNING - We have 28 negative values from total of 1099.001
+12/05/2022 11:49,236 - root - WARNING - We have 0 negative values from total of 531.001
+12/05/2022 11:49,499 - root - WARNING - We have 0 negative values from total of 266.001
+12/05/2022 11:50,"744 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 11:50,744 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 11:50,"747 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 11:50,747 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 11:52,"978 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 11:52,979 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 11:52,"982 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 11:52,983 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 11:54,"339 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 11:54,340 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 11:54,"342 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 11:54,342 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 11:56,"835 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 11:56,836 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 11:56,"838 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 11:56,839 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 11:59,"916 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 11:59,917 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 11:59,"919 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 11:59,920 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 12:01,"268 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:01,269 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 12:01,"272 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:01,272 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 12:03,"671 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:03,672 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 12:03,"675 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:03,675 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 12:06,"260 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:06,260 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 12:06,"263 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:06,263 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 12:08,"577 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:08,578 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 12:08,"580 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:08,580 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 12:10,"755 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:10,755 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 12:10,"758 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:10,758 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 12:13,"392 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:13,393 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 12:13,"396 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:13,396 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 12:15,"991 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:15,992 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 12:15,"994 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:15,995 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 12:17,"367 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:17,367 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 12:17,"369 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:17,370 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 12:19,"731 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:19,731 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 12:19,"734 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:19,734 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 12:21,"948 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:21,948 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 12:21,"952 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:21,952 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
+12/05/2022 12:23,"714 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:23,714 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/requests/cache
+12/05/2022 12:23,"717 - StorageApi - INFO - models_cache_type path not configured. Using ""local"" by default."
+12/05/2022 12:23,717 - StorageApi - INFO - models_cache_base path not configured. Generating default /tmp/company/results/cache
